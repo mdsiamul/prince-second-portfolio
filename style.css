@@ -1,0 +1,23 @@
+
+
+#welcome {    color: #a0a8f3;
+    font-weight: bold;
+    font-size: 100px;
+    margin: auto;
+    margin-top: 255px;
+    padding-left: 114px;
+}
+.welcome_dive{display: flex;
+width: 50%;
+display: inline-block;}
+
+.welcome_dive img {width: 100%;}
+#head_dive{display: flex;
+    ;
+padding: 0;
+margin: auto;}
+ #name{color: rgb(17 168 214);
+    font-size: xxx-large;
+    padding-left: 52px;
+}
+#name span {color:#883c3f;}
